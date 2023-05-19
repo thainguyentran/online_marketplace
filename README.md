@@ -1,2 +1,2 @@
 # online marketplace
-an online marketplace website using django
+an online marketplace website using djang
